@@ -1,0 +1,2 @@
+Task 1: BIG O : O(n)
+Task 2: BIG O : O(n)
